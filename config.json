@@ -1,0 +1,132 @@
+{
+                    "log": {
+                                                        "loglevel": "warning"
+                                                                                        },
+                                                                                                                            "routing": {
+                                                                                                                                                                               "domainStrategy": "AsIs",
+                                                                                                                                                                                   "rules": [
+                                                                                                                                                                                                           {
+                                                                                                                                                                                                                                   "type": "field",
+
+                                                                                                                           "ip": [
+
+                                                                                                                                              "geoip:private"
+
+
+                         ],
+
+
+                    "outboundTag": "block"
+
+
+                   }
+
+
+          ]
+
+
+     },
+
+
+            "inbounds": [
+
+
+           {
+
+
+              "listen": "0.0.0.0",
+
+
+                     "port": 443,
+
+
+                "protocol": "vmess",
+
+
+               "settings": {
+
+
+              "clients": [
+
+
+                         {
+
+
+
+                        "id": "3fd35381-d734-4542-9531-f51d943e5cc0",
+
+
+                   "alterId": 8,
+
+
+                          "security": "auto",
+
+
+                     "level": 0
+
+
+                            }
+
+
+                   ]
+
+
+              },
+
+
+                     "streamSettings": {
+
+
+                    "network": "ws",
+
+
+                   "wsSettings": {
+
+
+                      "path": "/githuberasercn"
+
+
+                         },
+
+
+                    "security": "none"
+
+
+                   }
+
+
+          }
+
+
+     ],
+
+
+            "outbounds": [
+
+
+           {
+
+
+              "protocol": "freedom",
+
+
+                     "tag": "direct"
+
+
+            },
+
+
+           {
+
+
+              "protocol": "blackhole",
+
+
+                     "tag": "block"
+
+
+            }
+
+
+       ]
+}
