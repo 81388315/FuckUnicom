@@ -24,3 +24,6 @@ systemctl start v2ray
 ```
 vmess://eyJhZGQiOiLkv67mlLnkuLrkvaDnmoTmnI3liqHlmahpcCIsImFpZCI6IjgiLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsImlkIjoiM2ZkMzUzODEtZDczNC00NTQyLTk1MzEtZjUxZDk0M2U1Y2MwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1YmVyYXNlcmNuIiwicG9ydCI6IjQ0MyIsInBzIjoiZXhhbXBsZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ```
+
+## 鸣谢
+![Hunk Zhang](https://t.me/hunkzhang)
