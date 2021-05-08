@@ -18,3 +18,9 @@ systemctl enable v2ray
 cp config.json /usr/local/etc/v2ray/config.json
 systemctl start v2ray
 ```
+
+# 最后导入V2Ray连接
+
+```
+vmess://eyJhZGQiOiLkv67mlLnkuLrkvaDnmoTmnI3liqHlmahpcCIsImFpZCI6IjgiLCJob3N0IjoicHVsbC5mcmVlLnZpZGVvLjEwMDEwLmNvbSIsImlkIjoiM2ZkMzUzODEtZDczNC00NTQyLTk1MzEtZjUxZDk0M2U1Y2MwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1YmVyYXNlcmNuIiwicG9ydCI6IjQ0MyIsInBzIjoiZXhhbXBsZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+```
