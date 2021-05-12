@@ -33,5 +33,11 @@ vmess://eyJhZGQiOiLkv67mlLnkuLrkvaDnmoTmnI3liqHlmahpcCIsImFpZCI6IjgiLCJob3N0Ijoi
 ```
 
 然后您的流量就不要钱了
+
+## 进阶开发
+-Fork本项目
+-修改config.json
+-替换wget命令后的下载地址中的用户名为您的用户名
+-执行修改后的脚本以获得更多功能
 ## 鸣谢
-![Hunk Zhang](https://t.me/hunkzhang)
+# ![Hunk Zhang](https://t.me/hunkzhang)
