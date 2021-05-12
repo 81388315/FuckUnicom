@@ -2,7 +2,7 @@
 借助V2Ray实现联通免流
 
 <p align="center">
-  <img src="https://ibb.co/54sdnCY">
+  <img src="https://i.ibb.co/fFrbnZ8/IMG-20210512-190537.jpg">
 </p>
 
 ### 免责声明
