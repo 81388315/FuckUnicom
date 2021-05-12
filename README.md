@@ -5,6 +5,8 @@
   <img src="https://i.ibb.co/fFrbnZ8/IMG-20210512-190537.jpg">
 </p>
 
+
+[电信免流](https://github.com/EraserCN/FuckTelecom)
 ### 免责声明
 
 本项目仅限于联通免流，必然违反联通之用户协议。
