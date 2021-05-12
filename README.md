@@ -37,8 +37,7 @@ vmess://eyJhZGQiOiLkv67mlLnkuLrkvaDnmoTmnI3liqHlmahpcCIsImFpZCI6IjgiLCJob3N0Ijoi
 ```
 
 > 也可以手填如下配置
-<img src="https://i.ibb.co/grQz4W7/IMG-20210512-190729.jpg">
-
+<a href="https://ibb.co/grQz4W7"><img src="https://i.ibb.co/grQz4W7/IMG-20210512-190729.jpg" alt="IMG-20210512-190729" border="0"></a>
 然后您的流量就不要钱了
 
 ## 进阶开发
