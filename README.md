@@ -1,6 +1,10 @@
 # FuckUnicom
 借助V2Ray实现联通免流
 
+<p align="center">
+  <img src="https://ibb.co/54sdnCY">
+</p>
+
 ### 免责声明
 
 本项目仅限于联通免流，必然违反联通之用户协议。
