@@ -6,7 +6,7 @@
 </p>
 
 
-[电信免流](https://github.com/EraserCN/FuckTelecom)
+[电信免流(暂时下线，择日回归)](https://github.com/EraserCN/FuckTelecom)
 ### 免责声明
 ```
 本项目仅限于学习用途，必然违反联通之用户协议。
